@@ -1,0 +1,62 @@
+/* general single phrase begin */
+"i18n_general_phrase_register" = "Register";
+"i18n_general_phrase_login" = "Login";
+"i18n_general_phrase_signingin" = "Signing in";
+"i18n_general_phrase_relogin" = "Re-login";
+"i18n_general_phrase_tip" = "Tip";
+"i18n_general_phrase_warning" = "Warning";
+"i18n_general_phrase_ok" = "OK";
+"i18n_general_phrase_sure" = "Sure";
+"i18n_general_phrase_cancel" = "Cancel";
+"i18n_general_phrase_retry" = "Retry";
+"i18n_general_phrase_loading" = "Loading";
+"i18n_general_phrase_download" = "Download";
+"i18n_general_phrase_downloading" = "Downloading";
+"i18n_general_phrase_uploading" = "Uploading";
+"i18n_general_phrase_saving" = "Saving";
+"i18n_general_phrase_logout" = "Logout";
+"i18n_general_phrase_url" = "URL";
+"i18n_general_phrase_today" = "Today";
+"i18n_general_phrase_yesterday" = "Yesterday";
+"i18n_general_phrase_clear" = "Clear";
+"i18n_general_phrase_open" = "Open";
+"i18n_general_phrase_more" = "More";
+"i18n_general_phrase_switch" = "Switch";
+"i18n_general_phrase_gosee" = "Go to see";
+"i18n_general_phrase_transfer" = "Transfer";
+"i18n_general_phrase_finish" = "Finish";
+"i18n_general_phrase_share" = "Share";
+"i18n_general_phrase_delete" = "Delete";
+"i18n_general_phrase_save" = "Save";
+"i18n_general_phrase_email" = "Mail";
+"i18n_general_phrase_map" = "Map";
+"i18n_general_phrase_setting" = "Setting";
+"i18n_general_phrase_category" = "Category";
+"i18n_general_phrase_iknow" = "I know";
+"i18n_general_phrase_sendMail" = "Send mail";
+"i18n_general_phrase_copy" = "Copy";
+"i18n_general_phrase_action" = "Action";
+"i18n_general_phrase_option" = "Option";
+"i18n_general_phrase_reply" = "Reply";
+"i18n_general_phrase_forward" = "Forward";
+"i18n_general_phrase_forwarding" = "Forwarding";
+"i18n_general_phrase_default" = "Default";
+"i18n_general_phrase_google" = "Google";
+"i18n_general_phrase_confirm" = "Confirm";
+"i18n_general_phrase_about" = "About";
+"i18n_general_phrase_aboutus" = "About us";
+"i18n_general_phrase_feedback" = "Feedback";
+"i18n_general_phrase_submit" = "Submit";
+"i18n_general_phrase_submitting" = "Submitting";
+"i18n_general_phrase_submit_success" = "Submit success";
+"i18n_general_phrase_help" = "Help";
+/* general single phrase end */
+
+/* general sentences begin */
+"Pull to refresh..." = "Pull to refresh...";
+"Release to refresh..." = "Release to refresh...";
+"Loading..." = "Loading...";
+
+"i18n_general_sentence_cannot_connect_server" = "Can't connect to the server, please check network";
+"i18n_general_sentence_cannot_get_data_error_tryagain" = "Get data error, please try again";
+/* general sentences end */
